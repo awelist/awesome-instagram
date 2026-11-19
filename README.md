@@ -60,6 +60,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 - [Later](https://later.com/) – Social media scheduling and analytics for Instagram.
 - [Buffer](https://buffer.com/) – Multi-platform social media management tool.
+- [FacelessShorts](https://facelessshorts.io/) – Produce narrated faceless Reels series with scheduled publishing.
 - [Hootsuite](https://hootsuite.com/) – Plan and monitor Instagram content.
 - [Canva](https://www.canva.com/create/instagram-posts/) – Design tools specifically for Instagram visuals.
 - [Instagram Creator Studio](https://business.facebook.com/creatorstudio/) – Manage content, monetization, and insights for Instagram accounts.
